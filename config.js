@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['573023900508', 'GataBot-MD 💖🐈', true],
+  ['573023900508', '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙', true],
   ['37122262180']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -68,7 +68,7 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Kan Bot'
+global.packname = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 global.author = 'by Kanixxx '
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -79,7 +79,7 @@ global.author = 'by Kanixxx '
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
@@ -88,10 +88,10 @@ global.youtube = yt
 global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/Gata-Li/GataBot-MD'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'sin uso'
 global.nngrupo = nn
 
 global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
@@ -131,8 +131,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙 | by kanixxx'
+global.igfg = '𝑲𝑨𝑵 - 𝑩𝑶𝑻🌙'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ

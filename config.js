@@ -88,7 +88,7 @@ global.youtube = yt
 global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/Gata-Li/GataBot-MD'
+global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.gatabot = md
 
 global.nn = 'sin uso'

@@ -91,10 +91,10 @@ global.gatadiosig = ig
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.gatabot = md
 
-global.nn = 'sin uso'
+global.nn = 'https://chat.whatsapp.com/F7xxlnQ0VHg73IW5gJPtBA'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'https://chat.whatsapp.com/GSJKM1ggtyC45gu7RhCXgM'
 global.nnngrupo = nnn
 
 global.paypal = 'https://paypal.me/OficialGD'
